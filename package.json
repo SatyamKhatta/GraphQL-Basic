@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/merge": "^9.0.24",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.11.0",
+    "nodemon": "^3.1.10"
+  }
+}
